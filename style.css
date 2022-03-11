@@ -1,0 +1,35 @@
+  /* body { height: 
+    background-color: firebrick;
+} */
+/*.container{
+height: 200px;
+background: #CCCCCC;
+display: flex;
+/* align-items: center; */
+/* justify-content: center;
+}  */ 
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+}
+/* .container{
+    display: flex;
+    align-content: center;
+} */
+
+.button-container{
+       display: flex;
+       align-content: center;
+       /* padding: 20px; */
+       /* margin: 20px; */
+}
+ #value{
+    text-align: center;
+    /* background-color: brown; */
+    margin: 60px;
+} 
